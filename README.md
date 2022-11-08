@@ -8,3 +8,4 @@
 - merge to main test 3
 - merge to main test 4
 - aws connection check
+- aws connection check 2
