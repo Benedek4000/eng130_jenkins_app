@@ -11,3 +11,4 @@
 - aws connection check 2
 - aws connection check 3
 - aws connection check 4
+- aws connection check 5
