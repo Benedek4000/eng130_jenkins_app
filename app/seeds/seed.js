@@ -3,7 +3,7 @@ var mongoose = require('mongoose');
 var faker = require('faker');
 
 if(process.env.DB_HOST) {
-  mongoose.connect(process.env.DB_HOST);
+  mongoose.connect(process.env.DB_HOST,{useMongoClient:true});
 
   Post.remove({} , function(){
     console.log('Database Cleared');
