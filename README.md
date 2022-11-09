@@ -17,3 +17,4 @@
 - aws connection check 8
 - start npm 1
 - start npm 2
+- db test 1
