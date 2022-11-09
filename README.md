@@ -16,3 +16,4 @@
 - aws connection check 7
 - aws connection check 8
 - start npm 1
+- start npm 2
