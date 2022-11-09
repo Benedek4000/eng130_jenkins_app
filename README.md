@@ -18,3 +18,4 @@
 - start npm 1
 - start npm 2
 - db test 1
+- db test 2
