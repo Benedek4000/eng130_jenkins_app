@@ -9,3 +9,4 @@
 - merge to main test 4
 - aws connection check
 - aws connection check 2
+- aws connection check 3
